@@ -15,4 +15,4 @@
 
 Учебный проект Хекслета: https://ru.hexlet.io/programs/test-program-please-ignore-claude-vibecoding
 
-## [Мокап](https://zxvfc.github.io/test-program-please-ignore-claude-vibecoding-project-438/mockup.html)
+## [Мокап](https://zxvfc.github.io/test-program-please-ignore-claude-vibecoding-project-438/discover/mockup.html)
